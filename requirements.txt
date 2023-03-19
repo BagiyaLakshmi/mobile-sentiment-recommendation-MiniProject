@@ -1,0 +1,10 @@
+Flask
+webdriver-manager
+selenium
+pyarrow
+pandas
+jupyterlab
+transformers
+tensorflow
+matplotlib
+seaborn

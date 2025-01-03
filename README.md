@@ -49,7 +49,7 @@ This mini-project performs **sentiment analysis** on reviews of mobile phones so
 ## Contributors
 
 - Bagiya Lakshmi ([GitHub](https://github.com/bagiyalakshmi))
-- Cynddia Balamurugan ([GitHub](https://github.com/bagiyalakshmi))
+- Cynddia Balamurugan ([GitHub](https://github.com/Cynddia))
 - Shalini D M ([GitHub](https://github.com/shalini121906))
 - Harini C J  ([GitHub](https://github.com/Harinijayagopinath))
 
